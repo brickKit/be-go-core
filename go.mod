@@ -1,4 +1,4 @@
-module github.com/brickKit/be-assembly-standard/shell/be/go-core
+module github.com/brickKit/be-go-core
 
 go 1.25.11
 

@@ -5,7 +5,7 @@ metadata:
   name: Go core shell
   version: 1.0.0
   description: Runs the MDM and ERP core Go components in one process to save memory and CPU.
-  repository: https://github.com/brickKit/be-assembly-standard
+  repository: https://github.com/brickKit/be-go-core
   license: Apache-2.0
   vendor: brickKit
 shell:
