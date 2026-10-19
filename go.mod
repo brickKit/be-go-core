@@ -5,8 +5,8 @@ go 1.27.0
 toolchain go1.27.2
 
 require (
-	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.16
-	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.18
+	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.17
+	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.21
 )
 
 require (
