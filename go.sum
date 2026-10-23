@@ -54,8 +54,8 @@ github.com/brickKit/erp-inventory/v3 v3.0.2 h1:Q4Ei+C8vkeVYCWXzW3OjdfdbZzdjZb2sJ
 github.com/brickKit/erp-inventory/v3 v3.0.2/go.mod h1:b+fCWWmpNmhSlyvDheo04qGXaW//lRRz+aCRsCItytk=
 github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1 h1:VXMLu3iHEphNztRZtoGDfhTcoRmml4FFqT/dsSjOuF4=
 github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1/go.mod h1:nsC0/0ibd62y5sFKD0Sh5YQbW1O0N2387dV5sv3hRZA=
-github.com/brickKit/erp-sales/v3 v3.0.3 h1:+4hKna8JRF9RGHruNnB9tpDS9cCJd+Xofn1uagjEjbM=
-github.com/brickKit/erp-sales/v3 v3.0.3/go.mod h1:793F4tCqOtyWMJlVduAo31PzmnL0GmATbHzaXxaUw04=
+github.com/brickKit/erp-sales/v3 v3.0.4 h1:SH7cJ9/kWLtBjKoYzNykTo/Tp1DS4+iwKEDsMcWDFlM=
+github.com/brickKit/erp-sales/v3 v3.0.4/go.mod h1:793F4tCqOtyWMJlVduAo31PzmnL0GmATbHzaXxaUw04=
 github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.1 h1:yOcCj9Q7Wi6cJ/m93/0iymvCc/Ej4nY5O7godKhPDrU=
 github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.1/go.mod h1:lNvJIGkwHYJd9bv/ngYiKal65x7/M7McyHOzCIKyTSQ=
 github.com/brickKit/infra-print/contract/v3 v3.0.0-alpha.1 h1:3VV8g7rEzTSPjL8C9sYUATZjyRaqqr35w4HZqQxiVNE=
