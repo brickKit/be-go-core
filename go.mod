@@ -10,7 +10,7 @@ require (
 	github.com/brickKit/erp-billing/v3 v3.0.3
 	github.com/brickKit/erp-credit/v3 v3.0.2
 	github.com/brickKit/erp-inventory/v3 v3.0.2
-	github.com/brickKit/erp-sales/v3 v3.0.4
+	github.com/brickKit/erp-sales/v3 v3.0.5
 )
 
 require (
