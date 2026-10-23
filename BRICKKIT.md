@@ -24,4 +24,4 @@
 
 ## 外壳声明
 
-编进来的成员：`test/probe-go@3.2.19`、`test/probe-go2@3.2.19`、`test/probe-go3@3.2.19`、`test/probe-go4@3.2.19`；`erp/inventory@3.0.1`、`erp/credit@3.0.1`、`erp/sales@3.0.1`、`erp/billing@3.0.1`。每个承载的成员仍然要自己的数据库角色与配置（它们的 `BRICKKIT.md`），外壳的登录角色 `shell_go_core` 持有它们的运行角色。
+编进来的成员：`test/probe-go@3.2.19`、`test/probe-go2@3.2.19`、`test/probe-go3@3.2.19`、`test/probe-go4@3.2.19`；`erp/inventory@3.0.1`、`erp/credit@3.0.1`、`erp/sales@3.0.2`、`erp/billing@3.0.2`。每个承载的成员仍然要自己的数据库角色与配置（它们的 `BRICKKIT.md`），外壳的登录角色 `shell_go_core` 持有它们的运行角色。
