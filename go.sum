@@ -42,8 +42,8 @@ github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.1 h1:NBvD5ihbPJQn7CYgsn
 github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.1/go.mod h1:21N0lZKoL1STxtsx5Yi9Wh8cJ32gtsQuVF52oxMWaps=
 github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 h1:wAavXt+nE11OoQKM0Fb5TbwErrJvdlF8ikY7yfi0qEQ=
 github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1/go.mod h1:V3dg37U83UVDQU0Hh4wrdgpJbP361PEknyIw2KcKrUE=
-github.com/brickKit/erp-billing/v3 v3.0.6 h1:Lv7nwZUW/bMcbckQyIrzSlidE83/g4YNfNNtvPC22qI=
-github.com/brickKit/erp-billing/v3 v3.0.6/go.mod h1:itMxp0OlFbl+fmWh5qYdW6moWdrcXbXcHPtri2iDWdA=
+github.com/brickKit/erp-billing/v3 v3.0.7 h1:oTPs08odqDNXPiY+bW+v2hiAlIyEKv9prn6/zedbpFk=
+github.com/brickKit/erp-billing/v3 v3.0.7/go.mod h1:itMxp0OlFbl+fmWh5qYdW6moWdrcXbXcHPtri2iDWdA=
 github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1 h1:uLQsfO0YWiKka8aw3mRhC5YUm7FC3uEdVOJwniLbYjw=
 github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1/go.mod h1:o6LLIM10zrk00cqS/Y9RcOOHb9xHSN3VlydZ2WzC+m4=
 github.com/brickKit/erp-credit/v3 v3.0.4 h1:TREvqg2yiPvNwMLx8UiVoXnegRWXJf3v9v5s/d65b8w=
@@ -54,8 +54,8 @@ github.com/brickKit/erp-inventory/v3 v3.0.4 h1:99P3X5XiAQUP5LxX0O9gjDw5oN0YPKHvy
 github.com/brickKit/erp-inventory/v3 v3.0.4/go.mod h1:vZUD5T0RbJNcQyCvZb+k4CuXUZAz0Sb7KEAVRDV2wws=
 github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1 h1:VXMLu3iHEphNztRZtoGDfhTcoRmml4FFqT/dsSjOuF4=
 github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1/go.mod h1:nsC0/0ibd62y5sFKD0Sh5YQbW1O0N2387dV5sv3hRZA=
-github.com/brickKit/erp-sales/v3 v3.0.8 h1:Py6rSYWfAOPRZql4BYlfu7TGNQau1xMpVdJ//QS7Qs4=
-github.com/brickKit/erp-sales/v3 v3.0.8/go.mod h1:2h2xK6G9GPoAzOopyoLY0kVq7FxANAjDDRtNByihLMw=
+github.com/brickKit/erp-sales/v3 v3.0.9 h1:20r2CmcdKduV7PPYFxOXkVi4v738v+wX5kzeeIOgjCc=
+github.com/brickKit/erp-sales/v3 v3.0.9/go.mod h1:2h2xK6G9GPoAzOopyoLY0kVq7FxANAjDDRtNByihLMw=
 github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.1 h1:yOcCj9Q7Wi6cJ/m93/0iymvCc/Ej4nY5O7godKhPDrU=
 github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.1/go.mod h1:lNvJIGkwHYJd9bv/ngYiKal65x7/M7McyHOzCIKyTSQ=
 github.com/brickKit/infra-print/contract/v3 v3.0.0-alpha.1 h1:3VV8g7rEzTSPjL8C9sYUATZjyRaqqr35w4HZqQxiVNE=
