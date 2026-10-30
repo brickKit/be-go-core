@@ -8,7 +8,7 @@ RUN CGO_ENABLED=0 go build -trimpath -o /shell .
 
 FROM alpine:3.24.2
 COPY --from=build /shell /shell
-# the shell's own port (health, readiness, description, every member's metrics); members listen on their own ports
-ENV PORT=8090
+# the shell's own port 8090 (health, readiness, description, every member's metrics; BrickKit injects PORT); members
+# listen on their own ports
 EXPOSE 8090
 ENTRYPOINT ["/shell"]

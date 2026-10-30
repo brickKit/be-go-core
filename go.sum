@@ -50,8 +50,8 @@ github.com/brickKit/erp-credit/v3 v3.0.8 h1:KfeZuNdtYC4e0Q/OK5pm14R6t2XLmStSInOq
 github.com/brickKit/erp-credit/v3 v3.0.8/go.mod h1:kXmYOwCd173U4xC3WYW3VtpNghQOOnY7Dzlr3oeXxpY=
 github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.1 h1:SkDCEQ1lRm+r6soYODU6jWq165i3kktNKvHG/ilY6XE=
 github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.1/go.mod h1:QAppFYsuFc6Jd2EI+yn4O+534dIf/4k7GnVq2MKibc8=
-github.com/brickKit/erp-inventory/v3 v3.0.8 h1:w06PgMDONkGxfrNOVJUOCBLOeNhvx7OYFsr3oe7xNqU=
-github.com/brickKit/erp-inventory/v3 v3.0.8/go.mod h1:6twYBNFHKEHbQxEqS7GL79afM4p/AbhGZGOsJ3kMSHs=
+github.com/brickKit/erp-inventory/v3 v3.0.9 h1:d0U4PRQZU+AwHZdtZ2EOs8bs6HwDpl8i9ftBlIQB0ZU=
+github.com/brickKit/erp-inventory/v3 v3.0.9/go.mod h1:6twYBNFHKEHbQxEqS7GL79afM4p/AbhGZGOsJ3kMSHs=
 github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1 h1:VXMLu3iHEphNztRZtoGDfhTcoRmml4FFqT/dsSjOuF4=
 github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1/go.mod h1:nsC0/0ibd62y5sFKD0Sh5YQbW1O0N2387dV5sv3hRZA=
 github.com/brickKit/erp-sales/v3 v3.0.13 h1:QGEFR4A8uybaqaK4uRMCygMQPmz6e93EMAwWOify6YQ=
