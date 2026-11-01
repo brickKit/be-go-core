@@ -7,10 +7,10 @@ toolchain go1.27.2
 require (
 	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.21
 	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.37
-	github.com/brickKit/erp-billing/v3 v3.0.14
+	github.com/brickKit/erp-billing/v3 v3.0.15
 	github.com/brickKit/erp-credit/v3 v3.0.9
 	github.com/brickKit/erp-inventory/v3 v3.0.10
-	github.com/brickKit/erp-sales/v3 v3.0.15
+	github.com/brickKit/erp-sales/v3 v3.0.16
 )
 
 require (
