@@ -5,20 +5,20 @@ go 1.27.0
 toolchain go1.27.2
 
 require (
-	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.28
-	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.41
-	github.com/brickKit/erp-billing/v3 v3.0.19
-	github.com/brickKit/erp-credit/v3 v3.0.12
-	github.com/brickKit/erp-inventory/v3 v3.0.13
-	github.com/brickKit/erp-sales/v3 v3.0.19
+	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.35
+	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.63
+	github.com/brickKit/erp-billing/v3 v3.0.20
+	github.com/brickKit/erp-credit/v3 v3.0.13
+	github.com/brickKit/erp-inventory/v3 v3.0.14
+	github.com/brickKit/erp-sales/v3 v3.0.20
 )
 
 require (
 	github.com/MicahParks/jwkset v0.11.3 // indirect
 	github.com/MicahParks/keyfunc/v3 v3.8.2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/brickKit/be-protocol/v3 v3.0.0-alpha.36 // indirect
-	github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.1 // indirect
+	github.com/brickKit/be-protocol/v3 v3.0.0-alpha.60 // indirect
+	github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.1 // indirect
