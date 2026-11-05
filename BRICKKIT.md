@@ -24,4 +24,4 @@
 
 ## 外壳声明
 
-编进来的成员：`test/probe-go@3.2.28`、`test/probe-go2@3.2.28`、`test/probe-go3@3.2.28`、`test/probe-go4@3.2.28`；`erp/inventory@3.0.13`、`erp/credit@3.0.12`、`erp/sales@3.0.19`、`erp/billing@3.0.19`。每个承载的成员仍然要自己的数据库角色与配置（它们的 `BRICKKIT.md`），外壳的登录角色 `shell_go_core` 持有它们的运行角色。
+编进来的成员：交易成员（库存、信用、销售、开票）与四个探针；成员与确切版本只写在 `component.yaml` 的 `shell.members`（与 `go.mod` 一致，装配项目的 pin-check 核对）。每个承载的成员仍然要自己的数据库角色与配置（它们的 `BRICKKIT.md`），外壳的登录角色 `shell_go_core` 持有它们的运行角色。
