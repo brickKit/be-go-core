@@ -5,8 +5,8 @@ go 1.27.0
 toolchain go1.27.2
 
 require (
-	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.37
-	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.68
+	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.38
+	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.73
 	github.com/brickKit/erp-billing/v3 v3.0.22
 	github.com/brickKit/erp-credit/v3 v3.0.15
 	github.com/brickKit/erp-inventory/v3 v3.0.15
@@ -17,7 +17,7 @@ require (
 	github.com/MicahParks/jwkset v0.11.3 // indirect
 	github.com/MicahParks/keyfunc/v3 v3.8.2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/brickKit/be-protocol/v3 v3.0.0-alpha.62 // indirect
+	github.com/brickKit/be-protocol/v3 v3.0.0-alpha.68 // indirect
 	github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1 // indirect
