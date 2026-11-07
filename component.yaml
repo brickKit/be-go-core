@@ -4,7 +4,7 @@ kind: Component
 metadata:
   id: be/go-core
   name: Go core shell
-  version: 3.0.65
+  version: 3.0.66
   description: "The trading shell: one Go process hosting the members compiled in (be-sdk-go's shell launcher)"
   repository: https://github.com/brickKit/be-go-core
 
@@ -14,10 +14,10 @@ shell:
     - test/probe-go2@3.2.48
     - test/probe-go3@3.2.48
     - test/probe-go4@3.2.48
-    - erp/inventory@3.0.28
-    - erp/credit@3.0.28
-    - erp/sales@3.0.38
-    - erp/billing@3.0.37
+    - erp/inventory@3.0.30
+    - erp/credit@3.0.30
+    - erp/sales@3.0.41
+    - erp/billing@3.0.39
 
 deployment:
   type: container
