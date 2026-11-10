@@ -7,10 +7,11 @@ toolchain go1.27.2
 require (
 	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.52
 	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.121
-	github.com/brickKit/erp-billing/v3 v3.0.55
-	github.com/brickKit/erp-credit/v3 v3.0.37
+	github.com/brickKit/erp-billing/v3 v3.0.56
+	github.com/brickKit/erp-credit/v3 v3.0.38
 	github.com/brickKit/erp-inventory/v3 v3.0.37
-	github.com/brickKit/erp-sales/v3 v3.0.46
+	github.com/brickKit/erp-purchase/v3 v3.0.0
+	github.com/brickKit/erp-sales/v3 v3.0.47
 )
 
 require (
@@ -23,12 +24,13 @@ require (
 	github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.2 // indirect
+	github.com/brickKit/erp-purchase/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/infra-print/contract/v3 v3.0.0-alpha.1 // indirect
-	github.com/brickKit/mdm-currency/contract/v3 v3.0.0-alpha.1 // indirect
-	github.com/brickKit/mdm-org/contract/v3 v3.0.0-alpha.1 // indirect
-	github.com/brickKit/mdm-partner/contract/v3 v3.0.0-alpha.1 // indirect
+	github.com/brickKit/mdm-currency/contract/v3 v3.0.0-alpha.2 // indirect
+	github.com/brickKit/mdm-org/contract/v3 v3.0.0-alpha.3 // indirect
+	github.com/brickKit/mdm-partner/contract/v3 v3.0.0-alpha.3 // indirect
 	github.com/brickKit/mdm-product/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/bytedance/gopkg v0.1.3 // indirect
 	github.com/bytedance/sonic v1.15.0 // indirect
