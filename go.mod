@@ -9,8 +9,9 @@ require (
 	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.121
 	github.com/brickKit/erp-billing/v3 v3.0.57
 	github.com/brickKit/erp-credit/v3 v3.0.38
+	github.com/brickKit/erp-finance/v3 v3.0.0
 	github.com/brickKit/erp-inventory/v3 v3.0.38
-	github.com/brickKit/erp-purchase/v3 v3.0.1
+	github.com/brickKit/erp-purchase/v3 v3.0.2
 	github.com/brickKit/erp-sales/v3 v3.0.48
 )
 
@@ -23,8 +24,9 @@ require (
 	github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.6 // indirect
 	github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1 // indirect
+	github.com/brickKit/erp-finance/contract/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.2 // indirect
-	github.com/brickKit/erp-purchase/contract/v3 v3.0.0-alpha.1 // indirect
+	github.com/brickKit/erp-purchase/contract/v3 v3.0.0-alpha.4 // indirect
 	github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/infra-print/contract/v3 v3.0.0-alpha.1 // indirect
@@ -97,7 +99,7 @@ require (
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/arch v0.22.0 // indirect
 	golang.org/x/crypto v0.57.0 // indirect
-	golang.org/x/net v0.59.0 // indirect
+	golang.org/x/net v0.60.0 // indirect
 	golang.org/x/sync v0.24.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
