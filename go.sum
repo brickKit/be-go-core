@@ -66,8 +66,8 @@ github.com/brickKit/erp-inventory/v3 v3.0.38 h1:CGYpxb32VZMcB1S3ZH2CmjYdbhjL8tqV
 github.com/brickKit/erp-inventory/v3 v3.0.38/go.mod h1:fK+PrjTpfcCF6ZyIOcfX8G+AqKRb1T3CUA2mYUq4DaY=
 github.com/brickKit/erp-payment/contract/v3 v3.0.0-alpha.2 h1:xhV/7M7dVYUBVDpaM9ftSh3uYKk18n0ndHabflYkiRM=
 github.com/brickKit/erp-payment/contract/v3 v3.0.0-alpha.2/go.mod h1:WfazIXeM9idKwBrSf4MXPjt4+QIFTc9O7t67lEA1r/0=
-github.com/brickKit/erp-payment/v3 v3.0.0 h1:7IPhioG8lcp3v/VVf7qGuo0jZkEckcG6+HALRp0g2Ak=
-github.com/brickKit/erp-payment/v3 v3.0.0/go.mod h1:UOUsES91XsTw0J7DguDuxemc59IVMStLzysSOXxqvsE=
+github.com/brickKit/erp-payment/v3 v3.0.1 h1:hLTHSlPfNTwEIdN8m3EDns9QHQQmhTmMdenyZEv8+Pw=
+github.com/brickKit/erp-payment/v3 v3.0.1/go.mod h1:UOUsES91XsTw0J7DguDuxemc59IVMStLzysSOXxqvsE=
 github.com/brickKit/erp-purchase/contract/v3 v3.0.0-alpha.4 h1:bEc3v1aPkRcfhGt0OAw+MZaE+XEhtr1OSGQq76aeazc=
 github.com/brickKit/erp-purchase/contract/v3 v3.0.0-alpha.4/go.mod h1:zPIOufxsFvTrvDxVjs3WKLI2V9dsxZJQ9DxHT2l6Wtg=
 github.com/brickKit/erp-purchase/v3 v3.0.2 h1:QdYH3ZRG/xGqd6cdZZXwh3SKeKi1csRQBitlCj8Wvhw=
