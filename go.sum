@@ -58,8 +58,8 @@ github.com/brickKit/erp-credit/v3 v3.0.38 h1:EGhhhbajJFYdhqpNHmdJAJSUT8CJfIHtSRT
 github.com/brickKit/erp-credit/v3 v3.0.38/go.mod h1:nFBTj+GLt1hjve8rMUJALwZqNRszyDOZcmmHeCEuEYc=
 github.com/brickKit/erp-finance/contract/v3 v3.0.0-alpha.3 h1:XyEd8GWhtJWRs3VHizUKsfFyrWgHfr2ljv9QMbMX/qM=
 github.com/brickKit/erp-finance/contract/v3 v3.0.0-alpha.3/go.mod h1:8yvRsMNoIdHpjMq8i7pmQAW7sXZAhZ+/LyPZxkqneOI=
-github.com/brickKit/erp-finance/v3 v3.0.2 h1:mRL/MsLoVWREjDd57Wz3OAX84VNPbWqvoXbsxZsqeO0=
-github.com/brickKit/erp-finance/v3 v3.0.2/go.mod h1:nlgfYTzx2Wlf5XbFe6ZG2wGBPhfXgYBT4OtkJd/dnn4=
+github.com/brickKit/erp-finance/v3 v3.0.3 h1:aWr2sAnRL921PpFimta+0dBgZzbqmT9zUoE3gtGmvVQ=
+github.com/brickKit/erp-finance/v3 v3.0.3/go.mod h1:nlgfYTzx2Wlf5XbFe6ZG2wGBPhfXgYBT4OtkJd/dnn4=
 github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.2 h1:jhwwfWYna1lOqoem9tk7MhTfm9GBUO+9LIVdT/6lHAI=
 github.com/brickKit/erp-inventory/contract/v3 v3.0.0-alpha.2/go.mod h1:QAppFYsuFc6Jd2EI+yn4O+534dIf/4k7GnVq2MKibc8=
 github.com/brickKit/erp-inventory/v3 v3.0.38 h1:CGYpxb32VZMcB1S3ZH2CmjYdbhjL8tqVrR84+cCMdGQ=
