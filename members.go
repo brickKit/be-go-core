@@ -7,6 +7,7 @@ import (
 	"github.com/brickKit/erp-credit/v3/credit"
 	"github.com/brickKit/erp-finance/v3/finance"
 	"github.com/brickKit/erp-inventory/v3/inventory"
+	"github.com/brickKit/erp-payment/v3/payment"
 	"github.com/brickKit/erp-purchase/v3/purchase"
 	"github.com/brickKit/erp-sales/v3/sales"
 )
@@ -15,5 +16,5 @@ import (
 // must equal shell.members in component.yaml (TestMembersMatchTheManifest).
 func members() []component.Definition {
 	return append(probe.Definitions(), // the experiment's probes
-		inventory.Definition(), credit.Definition(), sales.Definition(), billing.Definition(), purchase.Definition(), finance.Definition())
+		inventory.Definition(), credit.Definition(), sales.Definition(), billing.Definition(), purchase.Definition(), finance.Definition(), payment.Definition())
 }
