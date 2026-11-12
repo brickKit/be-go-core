@@ -11,9 +11,9 @@ require (
 	github.com/brickKit/erp-billing/v3 v3.0.62
 	github.com/brickKit/erp-costing/v3 v3.0.3
 	github.com/brickKit/erp-credit/v3 v3.0.40
-	github.com/brickKit/erp-finance/v3 v3.0.10
+	github.com/brickKit/erp-finance/v3 v3.0.11
 	github.com/brickKit/erp-inventory/v3 v3.0.41
-	github.com/brickKit/erp-payment/v3 v3.0.13
+	github.com/brickKit/erp-payment/v3 v3.0.14
 	github.com/brickKit/erp-purchase/v3 v3.0.9
 	github.com/brickKit/erp-sales/v3 v3.0.53
 )
