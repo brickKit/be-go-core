@@ -48,6 +48,8 @@ github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.121 h1:bI8ZLqaOo2hFJ6YMLhOgE/iIGgA
 github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.121/go.mod h1:6behnQqytEEyQQCVsVSL2CVhENpeHB+jQN45dpKttfI=
 github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.6 h1:9Ju2Lp3HXFCc3FSF5oVioGx0DPowi63gVXH5MeJnA8k=
 github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.6/go.mod h1:21N0lZKoL1STxtsx5Yi9Wh8cJ32gtsQuVF52oxMWaps=
+github.com/brickKit/crm-opportunity/v3 v3.0.0 h1:10+6FKNj+7EuH1MtXFeHh9N00QV8McPZBFYP3AvbDtc=
+github.com/brickKit/crm-opportunity/v3 v3.0.0/go.mod h1:xjFZay5c2Kd4xXAZseGFYMHUwB+kJa60LeXBBWVdW6c=
 github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 h1:wAavXt+nE11OoQKM0Fb5TbwErrJvdlF8ikY7yfi0qEQ=
 github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1/go.mod h1:V3dg37U83UVDQU0Hh4wrdgpJbP361PEknyIw2KcKrUE=
 github.com/brickKit/erp-billing/v3 v3.0.59 h1:2nD9tXcR20Ndcy1C4Iv775+na5tWptd2oTGKd0mcq5w=

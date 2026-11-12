@@ -3,6 +3,7 @@ package main
 import (
 	"github.com/brickKit/be-acceptance/probes/go/v3/probe"
 	"github.com/brickKit/be-sdk-go/v3/component"
+	"github.com/brickKit/crm-opportunity/v3/opportunity"
 	"github.com/brickKit/erp-billing/v3/billing"
 	"github.com/brickKit/erp-costing/v3/costing"
 	"github.com/brickKit/erp-credit/v3/credit"
@@ -17,5 +18,5 @@ import (
 // must equal shell.members in component.yaml (TestMembersMatchTheManifest).
 func members() []component.Definition {
 	return append(probe.Definitions(), // the experiment's probes
-		inventory.Definition(), credit.Definition(), sales.Definition(), billing.Definition(), purchase.Definition(), finance.Definition(), payment.Definition(), costing.Definition())
+		inventory.Definition(), credit.Definition(), sales.Definition(), billing.Definition(), purchase.Definition(), finance.Definition(), payment.Definition(), costing.Definition(), opportunity.Definition())
 }
