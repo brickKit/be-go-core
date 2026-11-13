@@ -5,17 +5,17 @@ go 1.27.0
 toolchain go1.27.2
 
 require (
-	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.58
-	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.129
-	github.com/brickKit/crm-opportunity/v3 v3.0.8
-	github.com/brickKit/erp-billing/v3 v3.0.66
-	github.com/brickKit/erp-costing/v3 v3.0.7
-	github.com/brickKit/erp-credit/v3 v3.0.44
-	github.com/brickKit/erp-finance/v3 v3.0.15
-	github.com/brickKit/erp-inventory/v3 v3.0.46
-	github.com/brickKit/erp-payment/v3 v3.0.19
-	github.com/brickKit/erp-purchase/v3 v3.0.14
-	github.com/brickKit/erp-sales/v3 v3.0.57
+	github.com/brickKit/be-acceptance/probes/go/v3 v3.2.59
+	github.com/brickKit/be-sdk-go/v3 v3.0.0-alpha.130
+	github.com/brickKit/crm-opportunity/v3 v3.0.9
+	github.com/brickKit/erp-billing/v3 v3.0.67
+	github.com/brickKit/erp-costing/v3 v3.0.8
+	github.com/brickKit/erp-credit/v3 v3.0.45
+	github.com/brickKit/erp-finance/v3 v3.0.16
+	github.com/brickKit/erp-inventory/v3 v3.0.47
+	github.com/brickKit/erp-payment/v3 v3.0.20
+	github.com/brickKit/erp-purchase/v3 v3.0.16
+	github.com/brickKit/erp-sales/v3 v3.0.58
 )
 
 require (
@@ -23,8 +23,8 @@ require (
 	github.com/MicahParks/keyfunc/v3 v3.8.2 // indirect
 	github.com/andybalholm/brotli v1.1.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/brickKit/be-protocol/v3 v3.0.0-alpha.126 // indirect
-	github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.6 // indirect
+	github.com/brickKit/be-protocol/v3 v3.0.0-alpha.127 // indirect
+	github.com/brickKit/contract-infra-authz/v3 v3.0.0-alpha.7 // indirect
 	github.com/brickKit/erp-billing/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/erp-costing/contract/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/erp-credit/contract/v3 v3.0.0-alpha.1 // indirect
@@ -33,6 +33,7 @@ require (
 	github.com/brickKit/erp-payment/contract/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/erp-purchase/contract/v3 v3.0.0-alpha.4 // indirect
 	github.com/brickKit/erp-sales/contract/v3 v3.0.0-alpha.3 // indirect
+	github.com/brickKit/infra-attachment/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/infra-audit/contract/v3 v3.0.0-alpha.2 // indirect
 	github.com/brickKit/infra-print/contract/v3 v3.0.0-alpha.1 // indirect
 	github.com/brickKit/mdm-currency/contract/v3 v3.0.0-alpha.2 // indirect
